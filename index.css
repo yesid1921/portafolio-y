@@ -1,0 +1,45 @@
+body {
+    display: flex;
+    background-color: rgb(7, 7, 8);
+    justify-content: flex-start;
+    height: 100vh;
+    align-items: flex-start;
+    justify-content: center;
+    /* flex-direction: column; */
+    justify-content: space-around;
+}
+.cuadro {
+    height: 35px;
+    width: 310px;
+    background-color: rgb(194, 194, 194);
+    color: rgb(7, 6, 6);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.cuadro2 {
+    height: 35px;
+    width: 310px;
+    background-color: rgb(194, 194, 194);
+    color: rgb(8, 8, 8);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.cuadro3 {
+    height: 35px;
+    width: 310px;
+    background-color: rgb(194, 194, 194);
+    color: rgb(10, 10, 10);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.cuadro4 {
+    height: 35px;
+    width: 310px;
+    background-color: rgb(194, 194, 194);
+    color: rgb(7, 7, 7);
+    padding: 20px;
+    border-radius: 15px;
+}
